@@ -6,7 +6,7 @@ Module 10
 
 The team profile generator is a command line application that runs in Node. In order to use the application users must download all of the necessary dependencies using npm install.
 
-# Techniques and Technologies Used
+# Technologies Used
 
 This app was created using Object-Oriented Programming concepts, namely using classes and constructors to create "team member" objects based on information entered by the user. The app is run using Node.js, and uses the "Inquirer" and "FS" node modules.
 
